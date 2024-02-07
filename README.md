@@ -6,9 +6,10 @@ This repository contains python code for:
 # Result
 | Name of Algorithm       | Accuracy in percentage |
 | ------------------------|------------------------|
-| Gaussian NB             | 84.7                   |
-| Logistic Regression     | 85                     |
-| Decision Tree Classifier| 75.4                   |
+| Gaussian NB             | 84.78                  |
+| Random Forest           | 82.03                  |
+| Logistic Regression     | 85.04                  |
+| Decision Tree Classifier| 75.45                  |
 | Neural Network          | 85.04                  |
 | KNN Classifier          | 82.2                   |
 
